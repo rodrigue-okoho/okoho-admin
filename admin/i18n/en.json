@@ -262,5 +262,22 @@
       "counter-title-3": "Over 20 million stories shared",
       "counter-title-4": "4 million daily active users"
     }
+  },
+  "dashboard": {
+    "medical-care": "Medical care",
+    "development-of-web": "Development of web and mobile applications",
+    "metal-construction-and-welding": "Metal construction and welding",
+    "mechatronics-and-mechanics": "Mechatronics and mechanics",
+    "electricity-electronics": "Electricity & electronics",
+    "language": {
+      "french": "French",
+      "english": "English",
+      "german": "German",
+      "spanish": "Spanish",
+      "italian": "Italian",
+      "portuguese": "Portuguese",
+      "chinese": "Chinese",
+      "russian": "Russian"
+    }
   }
 }

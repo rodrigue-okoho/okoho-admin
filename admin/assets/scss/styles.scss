@@ -33,3 +33,10 @@
 
 // Pages style (Required file)
 @import "./pages/dashboard1";
+.user-profile-tab .nav-item .nav-link {
+  color: var(--bs-muted);
+}
+.user-profile-tab .nav-item .nav-link.active {
+  color: var(--bs-primary);
+  border-bottom: 2px solid var(--bs-primary);
+}
